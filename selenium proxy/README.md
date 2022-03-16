@@ -4,7 +4,9 @@
 
 ## Selenium
 - Install:
-`pip install selenium`
+```
+pip install selenium
+```
 
 ## Proxy's
 - Free proxy list [1]: https://free-proxy-list.net/
